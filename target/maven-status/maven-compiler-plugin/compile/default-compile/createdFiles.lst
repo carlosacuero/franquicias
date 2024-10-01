@@ -1,0 +1,10 @@
+com\example\franquicia\repository\ProductoRepository.class
+com\example\franquicia\service\ProductoService.class
+com\example\franquicia\exception\ResourceNotFoundException.class
+com\example\franquicia\controller\ProductoController.class
+com\example\franquicia\repository\SucursalRepository.class
+com\example\franquicia\FranquiciaApplication.class
+com\example\franquicia\modelos\Producto.class
+com\example\franquicia\modelos\Sucursal.class
+com\example\franquicia\exception\GlobalExceptionHandler.class
+com\example\franquicia\modelos\Franquicia.class
